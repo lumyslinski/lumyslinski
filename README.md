@@ -1,5 +1,5 @@
 - 👋 Hi, i’m Lukasz Myslinski and i'm a fullstack developer (.NET core and Angular)
-- 👀 I’m currently looking for new projects
+- 👀 I’m currently open for new challenges
 - 💞️ I’m looking to collaborate in fast paced and good environment
 - 📫 You can reach me @ [mysl.tech](https://mysl.tech)
 
